@@ -1,0 +1,6 @@
+kagglehub==0.1.16
+pandas
+matplotlib
+seaborn
+numpy
+scikit-learn
